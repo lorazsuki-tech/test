@@ -1,1 +1,17 @@
-# test
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Website Pertamaku</title>
+</head>
+<body>
+
+    <h1>Halo Dunia!</h1>
+    <p>Ini adalah website pertamaku.</p>
+
+    <button onclick="alert('Halo!')">
+        Klik Saya
+    </button>
+
+</body>
+</html># test
